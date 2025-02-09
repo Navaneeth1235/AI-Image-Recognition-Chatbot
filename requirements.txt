@@ -4,6 +4,6 @@ google-generativeai
 python-dotenv
 SpeechRecognition
 gtts
-path_to_downloaded_file.whl
+pyaudio
 
 

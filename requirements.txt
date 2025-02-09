@@ -1,0 +1,4 @@
+#run in PowerShell 
+streamlit
+google-generativeai
+python-dotenv
